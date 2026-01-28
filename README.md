@@ -82,17 +82,6 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ---
 
-## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques
-
-| Projeto                                   | Categoria                                                                         | Tecnologia      | Status |
-| :---------------------------------------- | :-------------------------------------------------------------------------------- | :-------------- | :----- |
-| **[SuporteApp Web](#-suporteapp-web)**    | ![Support](https://img.shields.io/badge/Suporte_Técnico-0052cc?style=flat-square) | HTML5, PWA, JS  | v3.8   |
-| **[OLT Manager](#-olt-manager-web)**      | ![Network](https://img.shields.io/badge/Redes_%2F_ISP-0052cc?style=flat-square)   | HTML5, CSS3, JS | v1.7   |
-| **[Downloader](#-downloader-automático)** | ![Auto](https://img.shields.io/badge/Automação-0052cc?style=flat-square)          | Python, EXE     | Stable |
-| **[Site Dreamer](#-site-dreamer)**        | ![Web](https://img.shields.io/badge/Portfólio_%2F_Web-0052cc?style=flat-square)   | HTML5, CSS3     | Active |
-
----
-
 ## <img src="https://icongr.am/feather/monitor.svg?size=26&color=20B2AA" valign="middle" /> Web Applications
 
 ### <img src="https://icongr.am/feather/layout.svg?size=20&color=20B2AA" valign="middle" /> [SuporteApp Web](<SuporteApp/Versão%20Atual%20(WEB)/v3.8/>)
