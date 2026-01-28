@@ -8,6 +8,43 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ---
 
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=20B2AA&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Automation+Expert;ISP+Tools+Creator;Python+%26+JS+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DreamerJP/DreamerJP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
+
+&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/animes.html">
+<img src="https://icongr.am/feather/tv.svg?size=24&color=9b59b6" valign="middle" /> <b>Animes</b>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/musicas.html">
+<img src="https://icongr.am/feather/music.svg?size=24&color=2ecc71" valign="middle" /> <b>Músicas</b>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/filmes.html">
+<img src="https://icongr.am/feather/film.svg?size=24&color=e74c3c" valign="middle" /> <b>Filmes</b>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/jogos.html">
+<img src="https://icongr.am/feather/crosshair.svg?size=24&color=3498db" valign="middle" /> <b>Jogos</b>
+</a>
+
+---
+
+## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques & Skills
+
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -41,39 +78,6 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=20B2AA&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Automation+Expert;ISP+Tools+Creator;Python+%26+JS+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DreamerJP/DreamerJP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
-
-&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/animes.html">
-<img src="https://icongr.am/feather/tv.svg?size=24&color=9b59b6" valign="middle" /> <b>Animes</b>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/musicas.html">
-<img src="https://icongr.am/feather/music.svg?size=24&color=2ecc71" valign="middle" /> <b>Músicas</b>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/filmes.html">
-<img src="https://icongr.am/feather/film.svg?size=24&color=e74c3c" valign="middle" /> <b>Filmes</b>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/jogos.html">
-<img src="https://icongr.am/feather/crosshair.svg?size=24&color=3498db" valign="middle" /> <b>Jogos</b>
-</a>
 
 ---
 
