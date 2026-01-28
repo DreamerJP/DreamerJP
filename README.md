@@ -44,6 +44,25 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ---
 
+## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
+
+<p align="left">
+  <a href="https://dreamerjp.github.io/Dreamer/animes.html">
+    <img src="https://img.shields.io/badge/Anime_List-Ver_Minha_Coleção-purple?style=for-the-badge&logo=anilist&logoColor=white" />
+  </a>
+  <a href="https://dreamerjp.github.io/Dreamer/musicas.html">
+    <img src="https://img.shields.io/badge/Music_Playlist-O_que_eu_ouço-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://dreamerjp.github.io/Dreamer/filmes.html">
+    <img src="https://img.shields.io/badge/Movies-Minha_Lista-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  </a>
+  <a href="https://dreamerjp.github.io/Dreamer/jogos.html">
+    <img src="https://img.shields.io/badge/Games-O_que_eu_jogo-blue?style=for-the-badge&logo=xbox&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques
 
 | Projeto                                   | Categoria                                                                         | Tecnologia      | Status |
