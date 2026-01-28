@@ -21,10 +21,6 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamerJP&theme=radical" alt="Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/DreamerJP/DreamerJP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
