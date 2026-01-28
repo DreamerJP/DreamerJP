@@ -21,20 +21,6 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DreamerJP&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamerJP&theme=radical" alt="Activity Graph" />
 </p>
 
@@ -140,10 +126,6 @@ Ferramenta avançada desenvolvida para **superar limitações de velocidade de s
 - <img src="https://icongr.am/feather/activity.svg?size=14&color=4682B4" valign="middle" /> **Recursos:** Histórico JSON, retries automáticos e unificação pós-download.
 
 ---
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
 
 <p align="center">
   <i>Desenvolvido por Dreamer | 2026</i>
