@@ -46,20 +46,26 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
 
-<p align="left">
-  <a href="https://dreamerjp.github.io/Dreamer/animes.html">
-    <img src="https://img.shields.io/badge/Anime_List-Ver_Minha_Coleção-purple?style=for-the-badge&logo=anilist&logoColor=white" />
-  </a>
-  <a href="https://dreamerjp.github.io/Dreamer/musicas.html">
-    <img src="https://img.shields.io/badge/Music_Playlist-O_que_eu_ouço-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://dreamerjp.github.io/Dreamer/filmes.html">
-    <img src="https://img.shields.io/badge/Movies-Minha_Lista-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
-  </a>
-  <a href="https://dreamerjp.github.io/Dreamer/jogos.html">
-    <img src="https://img.shields.io/badge/Games-O_que_eu_jogo-blue?style=for-the-badge&logo=xbox&logoColor=white" />
-  </a>
-</p>
+---
+
+## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
+
+&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/animes.html">
+<img src="https://icongr.am/feather/tv.svg?size=24&color=9b59b6" valign="middle" /> <b>Animes</b>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/musicas.html">
+<img src="https://icongr.am/feather/music.svg?size=24&color=2ecc71" valign="middle" /> <b>Músicas</b>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/filmes.html">
+<img src="https://icongr.am/feather/film.svg?size=24&color=e74c3c" valign="middle" /> <b>Filmes</b>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dreamerjp.github.io/Dreamer/jogos.html">
+<img src="https://icongr.am/feather/crosshair.svg?size=24&color=3498db" valign="middle" /> <b>Jogos</b>
+</a>
 
 ---
 
