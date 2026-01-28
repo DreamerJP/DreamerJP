@@ -8,11 +8,46 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ---
 
-<p align="center">
-  <a href="https://github.com/DreamerJP">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerJP&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
-</p>
+## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <br>
+      <a href="https://github.com/DreamerJP">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerJP&layout=compact&theme=radical" alt="Top Langs" width="100%" />
+      </a>
+    </td>
+    <td valign="top" width="60%">
+      <b>Projetos Recentes</b>
+      <br><br>
+      <table>
+        <tr>
+          <th>Projeto</th>
+          <th>Status</th>
+        </tr>
+        <tr>
+          <td><b><a href="#-suporteapp-web">SuporteApp Web</a></b></td>
+          <td>v3.8</td>
+        </tr>
+        <tr>
+          <td><b><a href="#-olt-manager-web">OLT Manager</a></b></td>
+          <td>v1.7</td>
+        </tr>
+        <tr>
+          <td><b><a href="#-downloader-automático">Downloader</a></b></td>
+          <td>Stable</td>
+        </tr>
+        <tr>
+          <td><b><a href="#-site-dreamer">Site Dreamer</a></b></td>
+          <td>Active</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
