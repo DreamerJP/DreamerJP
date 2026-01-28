@@ -46,10 +46,6 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
 
----
-
-## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
-
 &nbsp;&nbsp;
 <a href="https://dreamerjp.github.io/Dreamer/animes.html">
 <img src="https://icongr.am/feather/tv.svg?size=24&color=9b59b6" valign="middle" /> <b>Animes</b>
