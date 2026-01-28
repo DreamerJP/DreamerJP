@@ -10,36 +10,35 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques & Skills
 
+## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques & Skills
+
 <table>
   <tr>
-    <td valign="top" width="40%">
-      <br>
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/DreamerJP">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerJP&layout=compact&theme=radical" alt="Top Langs" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerJP&layout=compact&theme=radical" alt="Top Langs" />
       </a>
     </td>
-    <td valign="top" width="60%">
-      <b>Projetos Recentes</b>
-      <br><br>
+    <td width="50%" align="center" valign="middle">
       <table>
         <tr>
-          <th>Projeto</th>
-          <th>Status</th>
+          <th width="70%">Projeto</th>
+          <th width="30%">Status</th>
         </tr>
         <tr>
-          <td><b><a href="#-suporteapp-web">SuporteApp Web</a></b></td>
+          <td><a href="#-suporteapp-web">SuporteApp Web</a></td>
           <td>v3.8</td>
         </tr>
         <tr>
-          <td><b><a href="#-olt-manager-web">OLT Manager</a></b></td>
+          <td><a href="#-olt-manager-web">OLT Manager</a></td>
           <td>v1.7</td>
         </tr>
         <tr>
-          <td><b><a href="#-downloader-automático">Downloader</a></b></td>
+          <td><a href="#-downloader-automático">Downloader</a></td>
           <td>Stable</td>
         </tr>
         <tr>
-          <td><b><a href="#-site-dreamer">Site Dreamer</a></b></td>
+          <td><a href="#-site-dreamer">Site Dreamer</a></td>
           <td>Active</td>
         </tr>
       </table>
