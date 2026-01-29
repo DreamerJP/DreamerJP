@@ -83,7 +83,7 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ## <img src="https://icongr.am/feather/monitor.svg?size=26&color=20B2AA" valign="middle" /> Web Applications
 
-### <img src="https://icongr.am/feather/layout.svg?size=20&color=20B2AA" valign="middle" /> [SuporteApp Web](<SuporteApp/Versão%20Atual%20(WEB)/v3.8/>)
+### <img src="https://icongr.am/feather/layout.svg?size=20&color=20B2AA" valign="middle" /> [SuporteApp Web](https://github.com/DreamerJP/SuporteApp-Web)
 
 > _A evolução da ferramenta de auxílio ao suporte técnico._
 
@@ -102,7 +102,7 @@ Uma aplicação web moderna com design **Glassmorphism**, projetada para otimiza
 
 ---
 
-### <img src="https://icongr.am/feather/server.svg?size=20&color=20B2AA" valign="middle" /> [OLT Manager Web](Gerenciador%20de%20comandos%20OLT/Versão%20WEB/v1.7/)
+### <img src="https://icongr.am/feather/server.svg?size=20&color=20B2AA" valign="middle" /> [OLT Manager Web](https://github.com/DreamerJP/olt-command-manager-web)
 
 > _Administração simplificada para Huawei, ZTE e Fiberhome._
 
@@ -119,7 +119,7 @@ Gera scripts de comando complexos automaticamente através de uma interface intu
 
 ---
 
-### <img src="https://icongr.am/feather/globe.svg?size=20&color=20B2AA" valign="middle" /> [Site Dreamer](Site%20Dreamer/)
+### <img src="https://icongr.am/feather/globe.svg?size=20&color=20B2AA" valign="middle" /> [Site Dreamer](https://github.com/DreamerJP/Dreamer)
 
 > _Portfolio e Página Pessoal._
 
@@ -131,7 +131,7 @@ Projeto de website pessoal e portfólio.
 
 ## <img src="https://icongr.am/feather/terminal.svg?size=26&color=20B2AA" valign="middle" /> Automação & Scripts
 
-### <img src="https://icongr.am/feather/download-cloud.svg?size=20&color=20B2AA" valign="middle" /> [Downloader Automático](Downloader/Atual/)
+### <img src="https://icongr.am/feather/download-cloud.svg?size=20&color=20B2AA" valign="middle" /> [Downloader Automático](https://github.com/DreamerJP/Downloader)
 
 > _Acelerador de downloads com segmentação de arquivos._
 
