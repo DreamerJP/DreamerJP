@@ -59,6 +59,10 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
           <th width="30%">Status</th>
         </tr>
         <tr>
+          <td><a href="#-helphub-40">HelpHub 4.0</a></td>
+          <td>v4.0</td>
+        </tr>
+        <tr>
           <td><a href="#-suporteapp-web">SuporteApp Web</a></td>
           <td>v3.8</td>
         </tr>
@@ -82,6 +86,26 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 ---
 
 ## <img src="https://icongr.am/feather/monitor.svg?size=26&color=20B2AA" valign="middle" /> Web Applications
+
+### <img src="https://icongr.am/feather/command.svg?size=20&color=20B2AA" valign="middle" /> [HelpHub 4.0](https://github.com/DreamerJP/HelpHub)
+
+> _A plataforma definitiva para gestão de chamados e assistência técnica técnica._
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Layer_Hard-red.svg?style=flat-square)
+
+Um dos meus projetos mais robustos até o momento. Um ecossistema completo com arquitetura modular (**Application Factory**), foco extremo em segurança e uma interface **Glassmorphism** de alta fidelidade.
+
+**Destaques de Engenharia:**
+
+- <img src="https://icongr.am/feather/shield.svg?size=14&color=4682B4" valign="middle" /> **Segurança Avançada:** Validação de uploads via _Magic Numbers_ e bloqueio inteligente de força bruta.
+- <img src="https://icongr.am/feather/cpu.svg?size=14&color=4682B4" valign="middle" /> **Automação Inteligente:** Agendador de tarefas para backups automáticos e encerramento de chamados inativos.
+- <img src="https://icongr.am/feather/pie-chart.svg?size=14&color=4682B4" valign="middle" /> **Analytics Premium:** Dashboard interativo com gráficos de tendência, volume por departamento e KPIs em tempo real.
+- <img src="https://icongr.am/feather/printer.svg?size=14&color=4682B4" valign="middle" /> **Business Ready:** Geração de Ordens de Serviço em PDF/A4 prontas para coleta de assinatura.
+
+---
 
 ### <img src="https://icongr.am/feather/layout.svg?size=20&color=20B2AA" valign="middle" /> [SuporteApp Web](https://github.com/DreamerJP/SuporteApp-Web)
 
