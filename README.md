@@ -47,12 +47,7 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/DreamerJP">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamerJP&layout=compact&theme=radical" alt="Top Langs" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="100%" align="center" valign="middle">
       <table>
         <tr>
           <th width="70%">Projeto</th>
