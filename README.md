@@ -45,37 +45,66 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ## <img src="https://icongr.am/feather/star.svg?size=26&color=20B2AA" valign="middle" /> Destaques
 
+<div align="center">
+
+### 🚀 Projetos em Destaque
+
+</div>
+
 <table>
-  <tr>
-    <td width="100%" align="center" valign="middle">
-      <table>
-        <tr>
-          <th width="70%">Projeto</th>
-          <th width="30%">Status</th>
-        </tr>
-        <tr>
-          <td><a href="#-helphub-40">HelpHub 4.0</a></td>
-          <td>v4.0</td>
-        </tr>
-        <tr>
-          <td><a href="#-suporteapp-web">SuporteApp Web</a></td>
-          <td>v3.8</td>
-        </tr>
-        <tr>
-          <td><a href="#-olt-manager-web">OLT Manager</a></td>
-          <td>v1.7</td>
-        </tr>
-        <tr>
-          <td><a href="#-downloader-automático">Downloader</a></td>
-          <td>Stable</td>
-        </tr>
-        <tr>
-          <td><a href="#-site-dreamer">Site Dreamer</a></td>
-          <td>Active</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td width="33%">
+
+#### <img src="https://icongr.am/feather/command.svg?size=18&color=20B2AA" /> [HelpHub 4.0](#-helphub-40)
+![Version](https://img.shields.io/badge/version-4.0-blue?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+Plataforma completa de gestão de chamados com **segurança avançada** e **analytics premium**.
+
+</td>
+<td width="33%">
+
+#### <img src="https://icongr.am/feather/layout.svg?size=18&color=20B2AA" /> [SuporteApp Web](#-suporteapp-web)
+![Version](https://img.shields.io/badge/version-3.8-blue?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-Ready-purple?style=flat-square)
+
+Ferramenta moderna de suporte técnico com design **Glassmorphism** e modo app.
+
+</td>
+<td width="33%">
+
+#### <img src="https://icongr.am/feather/server.svg?size=18&color=20B2AA" /> [OLT Manager Web](#-olt-manager-web)
+![Version](https://img.shields.io/badge/version-1.7-blue?style=flat-square)
+![Network](https://img.shields.io/badge/Network-Tools-green?style=flat-square)
+
+Gerador automático de scripts para OLTs **Huawei**, **ZTE** e **Fiberhome**.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+#### <img src="https://icongr.am/feather/download-cloud.svg?size=18&color=20B2AA" /> [Downloader Automático](#-downloader-automático)
+![Status](https://img.shields.io/badge/status-Stable-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+Acelerador de downloads com **segmentação paralela** de arquivos.
+
+</td>
+<td width="33%">
+
+#### <img src="https://icongr.am/feather/globe.svg?size=18&color=20B2AA" /> [Site Dreamer](#-site-dreamer)
+![Status](https://img.shields.io/badge/status-Active-success?style=flat-square)
+![Web](https://img.shields.io/badge/Web-Development-green?style=flat-square)
+
+Portfolio e página pessoal com seções de **hobbies** e **interesses**.
+
+</td>
+<td width="33%">
+
+</td>
+</tr>
 </table>
 
 ---
