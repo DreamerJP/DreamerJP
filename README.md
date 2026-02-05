@@ -47,7 +47,7 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 <div align="center">
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 </div>
 
