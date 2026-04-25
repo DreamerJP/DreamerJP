@@ -44,8 +44,6 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 ---
 
 
-## <img src="https://icongr.am/feather/monitor.svg?size=26&color=20B2AA" valign="middle" /> Web Applications
-
 ### <img src="https://icongr.am/feather/command.svg?size=20&color=20B2AA" valign="middle" /> [HelpHub 4.0](https://github.com/DreamerJP/HelpHub)
 
 > _A plataforma definitiva para gestão de chamados e assistência técnica técnica._
@@ -111,8 +109,6 @@ Gera scripts de comando complexos automaticamente através de uma interface intu
 Projeto de website pessoal e portfólio.
 
 ---
-
-## <img src="https://icongr.am/feather/terminal.svg?size=26&color=20B2AA" valign="middle" /> Automação & Scripts
 
 ### <img src="https://icongr.am/feather/download-cloud.svg?size=20&color=20B2AA" valign="middle" /> [Downloader Automático](https://github.com/DreamerJP/Downloader)
 
