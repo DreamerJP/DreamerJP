@@ -2,47 +2,21 @@
 
 Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma coleção de ferramentas de automação, aplicações web e utilitários desenvolvidos com foco em **produtividade** e **performance**.
 
+<div align="center">
+
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Stack-Fullstack-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Automation_%26_ISP_Tools-orange?style=for-the-badge)
 
----
+</div>
 
 ---
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=20B2AA&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Automation+Expert;ISP+Tools+Creator;Python+%26+JS+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DreamerJP/DreamerJP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
-
-## <img src="https://icongr.am/feather/smile.svg?size=26&color=20B2AA" valign="middle" /> Hobbies & Interesses
-
-&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/animes.html">
-<img src="https://icongr.am/feather/tv.svg?size=24&color=9b59b6" valign="middle" /> <b>Animes</b>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/musicas.html">
-<img src="https://icongr.am/feather/music.svg?size=24&color=2ecc71" valign="middle" /> <b>Músicas</b>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/filmes.html">
-<img src="https://icongr.am/feather/film.svg?size=24&color=e74c3c" valign="middle" /> <b>Filmes</b>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dreamerjp.github.io/Dreamer/jogos.html">
-<img src="https://icongr.am/feather/crosshair.svg?size=24&color=3498db" valign="middle" /> <b>Jogos</b>
-</a>
-
----
-
 
 ### <img src="https://icongr.am/feather/command.svg?size=20&color=20B2AA" valign="middle" /> [HelpHub 4.0](https://github.com/DreamerJP/HelpHub)
 
@@ -102,7 +76,7 @@ Gera scripts de comando complexos automaticamente através de uma interface intu
 
 ### <img src="https://icongr.am/feather/globe.svg?size=20&color=20B2AA" valign="middle" /> [Site Dreamer](https://github.com/DreamerJP/Dreamer)
 
-> _Meu cantinho pessoal na web._
+> _Página pessoal e coleção de interesses._
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -135,6 +109,16 @@ Ferramenta avançada desenvolvida para **superar limitações de velocidade de s
 
 ---
 
-<p align="center">
-  <i>Desenvolvido por Dreamer | 2026</i>
-</p>
+### <img src="https://icongr.am/feather/bell.svg?size=20&color=20B2AA" valign="middle" /> [Downdetector Monitor](https://github.com/DreamerJP/DownDetectorAlert-Chrome)
+
+> _Monitoramento de serviços e alertas em tempo real direto no navegador._
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?style=flat-square&logo=googlechrome&logoColor=white)
+
+Uma extensão proativa que monitora o status de múltiplos provedores e serviços web através do Downdetector. Ela atua de forma invisível em background, notificando imediatamente o usuário quando um volume anormal de falhas é detectado.
+
+- <img src="https://icongr.am/feather/eye.svg?size=14&color=4682B4" valign="middle" /> **Background Tracking:** Checagens invisíveis periódicas via Service Worker para detecção rápida de incidentes.
+- <img src="https://icongr.am/feather/sliders.svg?size=14&color=4682B4" valign="middle" /> **Limites Customizados:** Definição manual de limites (thresholds) de alerta para cada serviço monitorado.
+- <img src="https://icongr.am/feather/message-square.svg?size=14&color=4682B4" valign="middle" /> **Alertas Push:** Envio de notificações nativas assim que os reports ultrapassam a marca de risco.
+
