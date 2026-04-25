@@ -102,11 +102,21 @@ Gera scripts de comando complexos automaticamente através de uma interface intu
 
 ### <img src="https://icongr.am/feather/globe.svg?size=20&color=20B2AA" valign="middle" /> [Site Dreamer](https://github.com/DreamerJP/Dreamer)
 
-> _Portfolio e Página Pessoal._
+> _Meu cantinho pessoal na web._
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-Development-green.svg?style=flat-square)
 
-Projeto de website pessoal e portfólio.
+Um site que criei só pra guardar e compartilhar as coisas que eu curto. É basicamente a minha coleção digital, onde junto meus hobbies e interesses pessoais e organizo tudo de um jeito bacana e interativo.
+
+**O que tem por lá:**
+
+- <img src="https://icongr.am/feather/film.svg?size=14&color=4682B4" valign="middle" /> **Filmes:** Minhas recomendações e filmes favoritos.
+- <img src="https://icongr.am/feather/crosshair.svg?size=14&color=4682B4" valign="middle" /> **Jogos:** Os games que mais marcaram a minha vida.
+- <img src="https://icongr.am/feather/music.svg?size=14&color=4682B4" valign="middle" /> **Músicas:** Playlists e dicas do que eu gosto de escutar.
+- <img src="https://icongr.am/feather/tv.svg?size=14&color=4682B4" valign="middle" /> **Animes:** Uma lista com as animações que eu mais curto.
+- <img src="https://icongr.am/feather/camera.svg?size=14&color=4682B4" valign="middle" /> **Fotos:** Um espaço pra postar minhas fotos e registros pessoais.
 
 ---
 
