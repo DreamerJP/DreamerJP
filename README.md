@@ -1,6 +1,6 @@
 # Portfólio de Projetos & Ferramentas
 
-Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma coleção de ferramentas de automação, aplicações web e utilitários desenvolvidos com foco em **produtividade**, **performance**.
+Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma coleção de ferramentas de automação, aplicações web e utilitários desenvolvidos com foco em **produtividade** e **performance**.
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Stack-Fullstack-blue?style=for-the-badge)
