@@ -18,7 +18,7 @@ Bem-vindo ao meu repositório central de projetos. Aqui você encontrará uma co
 
 ---
 
-### <img src="https://icongr.am/feather/command.svg?size=20&color=20B2AA" valign="middle" /> [HelpHub](https://github.com/DreamerJP/HelpHub)
+### <img src="https://icongr.am/feather/command.svg?size=20&color=20B2AA" valign="middle" /> [HelpHub (privado)](https://github.com/DreamerJP/HelpHub)
 
 > _A plataforma definitiva para gestão de chamados e assistência técnica técnica._
 
