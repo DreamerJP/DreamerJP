@@ -27,6 +27,7 @@ Gestão para provedores de internet e assistências técnicas: chamados, inciden
 <sub>Python · Flask · MySQL · Alpine.js · 1163 testes automatizados</sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://novapartida.com.br/"><img align="right" src="https://img.shields.io/badge/Abrir_site-2ea44f?style=flat-square" alt="Abrir site"></a>
 <img src="icones/projetos/nova-partida.png" width="18" valign="middle"> <b>Nova Partida</b> <kbd>Privado</kbd><br>
 Loja online de jogos de tabuleiro: vitrine com filtros, busca que tolera erro de digitação, pagamento pelo Mercado Pago, frete pelo Melhor Envio e painel de pedidos, estoque e atendimento que funciona no celular.<br>
 <sub>Python · Django · PostgreSQL</sub>
