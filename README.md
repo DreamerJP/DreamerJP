@@ -22,14 +22,12 @@ Sistemas e ferramentas para provedores de internet, aplicativos para TV, Windows
 <table>
 <tr>
 <td width="50%" valign="top">
-<img align="right" src="https://img.shields.io/badge/Privado-6e7681?style=flat-square" alt="Privado">
-<img src="icones/projetos/helphub.webp" width="18" valign="middle"> <b>HelpHub</b><br>
+<img src="icones/projetos/helphub.webp" width="18" valign="middle"> <b>HelpHub</b> <kbd>Privado</kbd><br>
 Gestão para provedores de internet e assistências técnicas: chamados, incidentes de rede, agenda, app do técnico de campo, clientes e contratos, OLTs e MikroTik com bloqueio de inadimplente e financeiro ligado aos meios de pagamento. Cada empresa roda numa instância isolada.<br>
 <sub>Python · Flask · MySQL · Alpine.js · 1163 testes automatizados</sub>
 </td>
 <td width="50%" valign="top">
-<img align="right" src="https://img.shields.io/badge/Privado-6e7681?style=flat-square" alt="Privado">
-<img src="icones/projetos/nova-partida.png" width="18" valign="middle"> <b>Nova Partida</b><br>
+<img src="icones/projetos/nova-partida.png" width="18" valign="middle"> <b>Nova Partida</b> <kbd>Privado</kbd><br>
 Loja online de jogos de tabuleiro: vitrine com filtros, busca que tolera erro de digitação, pagamento pelo Mercado Pago, frete pelo Melhor Envio e painel de pedidos, estoque e atendimento que funciona no celular.<br>
 <sub>Python · Django · PostgreSQL</sub>
 </td>
@@ -47,8 +45,7 @@ Textos prontos e atalhos para o atendimento de suporte técnico, com abertura do
 <sub>JavaScript · PWA</sub>
 </td>
 <td width="50%" valign="top">
-<img align="right" src="https://img.shields.io/badge/Privado-6e7681?style=flat-square" alt="Privado">
-<img src="icones/projetos/suporteapp-extensao.png" width="18" valign="middle"> <b>SuporteApp Extensão</b><br>
+<img src="icones/projetos/suporteapp-extensao.png" width="18" valign="middle"> <b>SuporteApp Extensão</b> <kbd>Privado</kbd><br>
 O SuporteApp dentro do Chrome, com automações no OPA! Suite e no IXC: mensagens prontas, ordem de serviço aberta e agendada sem sair da conversa e aviso quando uma região inteira cai.<br>
 <sub>JavaScript · Extensão do Chrome</sub>
 </td>
@@ -73,8 +70,7 @@ Acompanha serviços no Downdetector e avisa quando as reclamações passam do li
 <table>
 <tr>
 <td width="50%" valign="top">
-<img align="right" src="https://img.shields.io/badge/Privado-6e7681?style=flat-square" alt="Privado">
-<img src="icones/projetos/dreamertv.png" width="18" valign="middle"> <b>DreamerTV</b><br>
+<img src="icones/projetos/dreamertv.png" width="18" valign="middle"> <b>DreamerTV</b> <kbd>Privado</kbd><br>
 Player de canais ao vivo, filmes e séries a partir da lista M3U do provedor, com sinopses e trailers do TMDB, favoritos e continuar assistindo.<br>
 <sub>Android TV (Kotlin) · Samsung Tizen · Roku (BrightScript) · Navegador</sub>
 </td>
