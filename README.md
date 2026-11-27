@@ -69,7 +69,7 @@ Acompanha serviços no Downdetector e avisa quando as reclamações passam do li
 <tr>
 <td width="50%" valign="top">
 <img src="icones/projetos/dreamertv.png" width="18" valign="middle"> <b>DreamerTV</b> <sub>privado</sub><br>
-App de IPTV com canais ao vivo, filmes e séries, sinopses e trailers do TMDB, favoritos e continuar assistindo.<br>
+Player de canais ao vivo, filmes e séries a partir da lista M3U do provedor, com sinopses e trailers do TMDB, favoritos e continuar assistindo.<br>
 <sub>Android TV (Kotlin) · Samsung Tizen · Roku (BrightScript) · Navegador</sub>
 </td>
 <td width="50%" valign="top">
